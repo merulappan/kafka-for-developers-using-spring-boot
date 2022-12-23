@@ -86,7 +86,8 @@ auto.create.topics.enable=false
 -   Start up the Zookeeper.
 
 ```
-zookeeper-server-start.bat ..\..\config\zookeeper.properties
+./zookeeper-server-start.bat ../../config/zookeeper.properties
+
 ```
 
 -   Start up the Kafka Broker.
